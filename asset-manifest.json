@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mock-ui/static/css/main.0d6acde6.css",
+    "main.js": "/mock-ui/static/js/main.275b4eaf.js",
+    "static/js/453.4868b9cb.chunk.js": "/mock-ui/static/js/453.4868b9cb.chunk.js",
+    "static/media/signformimage.png": "/mock-ui/static/media/signformimage.872eec2e42426840c3ac.png",
+    "index.html": "/mock-ui/index.html",
+    "main.0d6acde6.css.map": "/mock-ui/static/css/main.0d6acde6.css.map",
+    "main.275b4eaf.js.map": "/mock-ui/static/js/main.275b4eaf.js.map",
+    "453.4868b9cb.chunk.js.map": "/mock-ui/static/js/453.4868b9cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d6acde6.css",
+    "static/js/main.275b4eaf.js"
+  ]
+}
