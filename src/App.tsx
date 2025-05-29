@@ -1,14 +1,18 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Provider } from "react-redux"
+import { store } from "../src/store/store"
 import SignInForm from './components/form';
+import './App.css';
 
 function App() {
   return (
-   <>
-   <SignInForm/>
-   </>
+    <Provider store={store}>
+      <SignInForm />
+    </Provider>
   );
 }
 
 export default App;
+
+
+
